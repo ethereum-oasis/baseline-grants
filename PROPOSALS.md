@@ -12,3 +12,6 @@ Name - Grant name
 8. Michael Cairns - Publishing Supply Chain Improvement Proposal
 9. Ahmadou El Becaye Toure - Mobile Money B2B Integration with Baseline Protocol - Use Case
 10. Dhruv Malik - working  as  SDE with maintainers / TSC   team to develop / upgrade the  baseline  repository for V1 standards.
+
+12. Transmute Industries - Upgrade Element reference implementation to Sidetree Protocol v1  (see issue #30)
+13. Spruce Systems - Integrate Element v1 (from ^grant 12) into BR-1 & hello-world video (detailed proposal [here](https://github.com/eea-oasis/baseline-grants/files/6876877/26July.-.Baseline.Pitch.Deck.pdf))
